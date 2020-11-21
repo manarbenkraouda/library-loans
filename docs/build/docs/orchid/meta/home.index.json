@@ -1,0 +1,31 @@
+{
+  "ownKey": "home",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "true",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "true"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<h1 id=\"library-loans-application\"><a href=\"#library-loans-application\" id=\"library-loans-application\" class=\"anchor\"><\/a>Library Loans Application<\/h1>\n<hr />\n<p>components:<\/p>\n<ul>\n<li>type: 'pageContent'<\/li>\n<li>type: 'readme'<\/li>\n<\/ul>\n<hr />\n<p>The Library Loans Application is an basic Android application allowing users to view a certain list of books and loan them.<\/p>\n<p>The users can loan up to four books. There is no user management in this application, everything stored locally in a SQLite database.<\/p>\n<p>The application was made by Manar Benkraouda as an assignment for Griffith College Dublin.<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "true",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "true/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}

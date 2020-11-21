@@ -1,0 +1,19 @@
+{
+  "ownKey": "javadoc",
+  "childrenPages": {"javadoc": {
+    "ownKey": "javadoc",
+    "ownPages": [{
+      "reference": {
+        "path": "javadoc",
+        "baseUrl": "true",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "true/javadoc"
+      },
+      "description": "",
+      "title": "",
+      "content": ""
+    }]
+  }}
+}

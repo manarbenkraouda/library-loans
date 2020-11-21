@@ -35,7 +35,13 @@ Editorial:
   services:
     publications:
       stages:
-        ghPages:
-          branch: main
-          repo: 'library-loans'
-          username: 'manarbenkraouda'
+        - type: 'githubPages'
+          username: 'manar.benkraouda@epitech.eu'
+          repo: 'manarbenkraouda/library-loans'
+          branch: 'main'
+  wiki:
+    sections:
+      userManual:
+        adapter:
+          type: "github"
+          repo: "[manarbenkraouda/library-loans]"

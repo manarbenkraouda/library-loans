@@ -1,0 +1,19 @@
+{
+  "ownKey": "kotlindoc",
+  "childrenPages": {"kotlindoc": {
+    "ownKey": "kotlindoc",
+    "ownPages": [{
+      "reference": {
+        "path": "kotlindoc",
+        "baseUrl": "true",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "true/kotlindoc"
+      },
+      "description": "",
+      "title": "",
+      "content": ""
+    }]
+  }}
+}

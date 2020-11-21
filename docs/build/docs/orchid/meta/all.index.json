@@ -1,0 +1,261 @@
+{
+  "ownKey": "index",
+  "childrenPages": {
+    "javadoc": {
+      "ownKey": "javadoc",
+      "ownPages": [{
+        "reference": {
+          "path": "javadoc",
+          "baseUrl": "true",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "true/javadoc"
+        },
+        "description": "",
+        "title": "",
+        "content": ""
+      }]
+    },
+    "kotlindoc": {
+      "ownKey": "kotlindoc",
+      "ownPages": [{
+        "reference": {
+          "path": "kotlindoc",
+          "baseUrl": "true",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "true/kotlindoc"
+        },
+        "description": "",
+        "title": "",
+        "content": ""
+      }]
+    },
+    "wiki": {
+      "ownKey": "wiki",
+      "childrenPages": {
+        "features": {
+          "ownKey": "features",
+          "childrenPages": {
+            "one": {
+              "ownKey": "one",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "true",
+                  "fileName": "one",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "true/wiki/features/one"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "true",
+                  "fileName": "two",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "true/wiki/features/two"
+                },
+                "previous": {
+                  "path": "wiki",
+                  "baseUrl": "true",
+                  "fileName": "features",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "true/wiki/features"
+                },
+                "description": "",
+                "title": "Feature One",
+                "content": ""
+              }]
+            },
+            "two": {
+              "ownKey": "two",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "true",
+                  "fileName": "two",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "true/wiki/features/two"
+                },
+                "next": {
+                  "path": "wiki",
+                  "baseUrl": "true",
+                  "fileName": "extending",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "true/wiki/extending"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "true",
+                  "fileName": "one",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "true/wiki/features/one"
+                },
+                "description": "",
+                "title": "Feature Two",
+                "content": ""
+              }]
+            }
+          },
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "features",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/features"
+            },
+            "next": {
+              "path": "wiki/features",
+              "baseUrl": "true",
+              "fileName": "one",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/features/one"
+            },
+            "previous": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "configuration",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/configuration"
+            },
+            "description": "",
+            "title": "Features",
+            "content": ""
+          }]
+        },
+        "configuration": {
+          "ownKey": "configuration",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "configuration",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/configuration"
+            },
+            "next": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "features",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/features"
+            },
+            "previous": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "installation",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/installation"
+            },
+            "description": "",
+            "title": "Basic Configuration",
+            "content": ""
+          }]
+        },
+        "installation": {
+          "ownKey": "installation",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "installation",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/installation"
+            },
+            "next": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "configuration",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/configuration"
+            },
+            "description": "",
+            "title": "Installation",
+            "content": ""
+          }]
+        },
+        "extending": {
+          "ownKey": "extending",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "true",
+              "fileName": "extending",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/extending"
+            },
+            "previous": {
+              "path": "wiki/features",
+              "baseUrl": "true",
+              "fileName": "two",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "true/wiki/features/two"
+            },
+            "description": "",
+            "title": "Extending",
+            "content": ""
+          }]
+        }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "true",
+          "fileName": "wiki",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "true/wiki"
+        },
+        "description": "",
+        "title": "Wiki",
+        "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"true/wiki/installation\">Installation<\/a><\/li> \n   <li><a href=\"true/wiki/configuration\">Basic Configuration<\/a><\/li> \n   <li><a href=\"true/wiki/features\">Features<\/a> \n    <ul> \n     <li><a href=\"true/wiki/features/one\">Feature One<\/a><\/li> \n     <li><a href=\"true/wiki/features/two\">Feature Two<\/a><\/li> \n    <\/ul> <\/li> \n   <li><a href=\"true/wiki/extending\">Extending<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+      }]
+    }
+  },
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "true",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "true"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<h1 id=\"library-loans-application\"><a href=\"#library-loans-application\" id=\"library-loans-application\" class=\"anchor\"><\/a>Library Loans Application<\/h1>\n<hr />\n<p>components:<\/p>\n<ul>\n<li>type: 'pageContent'<\/li>\n<li>type: 'readme'<\/li>\n<\/ul>\n<hr />\n<p>The Library Loans Application is an basic Android application allowing users to view a certain list of books and loan them.<\/p>\n<p>The users can loan up to four books. There is no user management in this application, everything stored locally in a SQLite database.<\/p>\n<p>The application was made by Manar Benkraouda as an assignment for Griffith College Dublin.<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "true",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "true/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}
