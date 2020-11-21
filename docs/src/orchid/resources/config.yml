@@ -36,9 +36,8 @@ Editorial:
     publications:
       stages:
         - type: 'githubPages'
-          username: 'manar.benkraouda@epitech.eu'
+          username: 'manarbenkraouda'
           repo: 'manarbenkraouda/library-loans'
-          branch: 'main'
   wiki:
     sections:
       userManual:
