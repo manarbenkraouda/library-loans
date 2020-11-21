@@ -36,6 +36,6 @@ Editorial:
     publications:
       stages:
         ghPages:
-          branch: gh-pages
+          branch: main
           repo: 'library-loans'
           username: 'manarbenkraouda'

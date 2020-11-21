@@ -6,6 +6,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     orchidRuntime "io.github.javaeden.orchid:OrchidDocs:0.21.0"
     orchidRuntime "io.github.javaeden.orchid:OrchidKotlindoc:0.21.0"
+    orchidRuntime "io.github.javaeden.orchid:OrchidJavadoc:0.21.0"
     orchidRuntime "io.github.javaeden.orchid:OrchidPluginDocs:0.21.0"
 }
 
