@@ -9,3 +9,33 @@ Editorial:
   primaryColor: '#DE9149'
   social:
     github: 'manarbenkraouda/library-loans'
+  metaComponents:
+    - type: 'orchidSearch'
+  menu:
+    - type: 'separator'
+      title: 'Wiki'
+    - type: 'wiki'
+    - type: 'page'
+      itemId: 'Changelog'
+    - type: 'separator'
+      title: 'API Docs'
+    - type: 'sourcedocPages'
+      moduleType: 'javadoc'
+      node: 'classes'
+      asSubmenu: true
+      submenuTitle: 'Classes'
+    - type: 'sourcedocPages'
+      moduleType: 'javadoc'
+      node: 'packages'
+      asSubmenu: true
+      submenuTitle: 'Packages'
+  javadoc:
+    sourceDirs:
+      - './../../../../app/src/main/java'
+  services:
+    publications:
+      stages:
+        ghPages:
+          branch: gh-pages
+          repo: 'library-loans'
+          username: 'manarbenkraouda'
