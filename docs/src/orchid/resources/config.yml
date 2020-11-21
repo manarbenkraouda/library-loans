@@ -1,0 +1,11 @@
+# docs/src/orchid/resources/config.yml
+site:
+  about:
+    siteName: Library Loans Application
+    siteDescription: The Library Loans Application is an basic Android application allowing users to view a certain list of books and loan them.
+    siteAuthor: Manar Benkraouda - 3046175
+
+Editorial:
+  primaryColor: '#DE9149'
+  social:
+    github: 'manarbenkraouda/library-loans'
